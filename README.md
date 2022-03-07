@@ -1,4 +1,4 @@
-# Modern UI/UX Website with ReactJS
+# Modern-day UI/UX Website with ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
