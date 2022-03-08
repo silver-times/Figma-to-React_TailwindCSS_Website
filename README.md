@@ -1,6 +1,6 @@
 # Modern-day UI/UX Website with ReactJS
 
-This project was made with the modern frontend technologies. The website is also responsive.
+This project was made with the modern frontend technologies. The website is responsive with covering mobile, tablet-view, laptops and large-desktops.
 
 ## Available Scripts
 
